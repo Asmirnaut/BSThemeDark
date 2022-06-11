@@ -2,7 +2,18 @@
     "name": "bstheme-dark",
     "displayName": "BSTheme Dark",
     "description": "BS Dark Theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "Asmirnaut",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/StartsAtZero/BSThemeDark"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "blue theme",
+        "dark blue theme"
+    ],
     "engines": {
         "vscode": "^1.68.0"
     },
